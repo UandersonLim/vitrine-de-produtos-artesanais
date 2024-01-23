@@ -19,6 +19,7 @@ export const Main = styled.main`
     gap: 1rem;
     flex-wrap: wrap;
     height: 600px;
+    padding: 1rem 0;
 
   }
 

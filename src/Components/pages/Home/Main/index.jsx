@@ -18,7 +18,7 @@ export const Component_Main = () => {
           />
         ))}
       </div>
-      <a href="#"><p className="texto">Gostou?? Me chame no Whatsapp.<img src="../../../public/assets/image/whatsap.png"/></p></a>
+      <a href="https://api.whatsapp.com/send?phone=5575991574066&text=Ol%C3%A1!%20Vim%20comprar%20porta-chaves%20e%20porta-panos%20de%20prato." target="_blank"><p className="texto">Gostou?? Me chame no Whatsapp.<img src="assets/image/whatsap.png"/></p></a>
     </Main>
   );
 };

@@ -1,4 +1,4 @@
-import ChicaraBege from "../../public/assets/image/image-product/chicara-bege.jpg";
+import ChicaraBorboletaDourada from "../../public/assets/image/image-product/porta-chave-borboleta-dourada.jpg";
 import ChicaraBorboletaRed from "../../public/assets/image/image-product/chicara-borboleta-red.jpg";
 import ChicaraBorboleta from "../../public/assets/image/image-product/chicara-borboleta.jpg";
 import ChicaraFlorRed from "../../public/assets/image/image-product/chicara-flor-red.jpg";
@@ -7,13 +7,15 @@ import GirassolEmUso from "../../public/assets/image/image-product/girassol-em-u
 import Girassol from "../../public/assets/image/image-product/girassol.jpg";
 import NossaSenhoraAparecida from "../../public/assets/image/image-product/nossa-senhora-aparecida.jpg";
 import VasoDecorativo from "../../public/assets/image/image-product/vaso-decorativo.jpg";
+import PortaChaveGirassol from "../../public/assets/image/image-product/porta-chave-girassol.jpg";
+import PortaChavePratoBorboleta from "../../public/assets/image/image-product/porta-chave-prato-borboleta.jpg";
 
 export const dados = [
   {
     id: 1,
-    nome: "Porta-chave",
+    nome: "Porta-borboleta-dourada",
     descricao: 'O porta-chaves bege com efeito de xícara é uma opção elegante e prática para quem deseja manter as chaves em um só lugar. ',
-    imagem: ChicaraBege,
+    imagem: ChicaraBorboletaDourada,
     preco: 35.00
   },
   {
@@ -53,7 +55,21 @@ export const dados = [
   },
   {
     id: 7,
-    nome: "Porta-pano-de-prato girassol",
+    nome: "Porta-chave Girassol",
+    descricao: 'O Porta Chave Girassol é um item de decoração artesanal que pode ser usado para pendurar chaves na parede.',
+    imagem: PortaChaveGirassol,
+    preco: 35.00
+  },
+  {
+    id: 8,
+    nome: "Porta-chave-prato-borboleta",
+    descricao: 'Um porta-chaves é um objeto que ajuda a manter as chaves organizadas e fáceis de encontrar.',
+    imagem: PortaChavePratoBorboleta,
+    preco: 35.00
+  },
+  {
+    id: 9,
+    nome: "Porta-pano-de-prato Girassol",
     descricao: 'Um porta-pano-de-prato é um item que ajuda a manter os panos de prato organizados e fáceis de encontrar.',
     imagem: Girassol,
     imagemDois: GirassolEmUso,
