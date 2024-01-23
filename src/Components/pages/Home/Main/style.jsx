@@ -8,7 +8,7 @@ export const Main = styled.main`
   padding: 2rem;
   width: 100%;
   background-color: #f8f8ff;
-  background-image: url("../../../public/assets/image/Fundo-artesanato.jpg");
+  background-image: url("assets/image/Fundo-artesanato.jpg");
   background-repeat: no-repeat;
 
   .box_Card, ::-webkit-scrollbar {
