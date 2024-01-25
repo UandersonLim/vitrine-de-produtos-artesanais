@@ -32,7 +32,7 @@ O ArteMania React tem como principais objetivos:
 
 3. Inicie o Aplicativo:
     ```bash
-    npm start
+    npm run dev
     ```
 
     Agora você pode explorar a vitrine do ArteMania React e utilizar o botão de WhatsApp para se comunicar diretamente com o vendedor!
