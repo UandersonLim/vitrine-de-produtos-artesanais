@@ -22,7 +22,7 @@ O ArteMania React tem como principais objetivos:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/ArteMania-React.git
+   git clone https://github.com/UandersonLim/vitrine-de-produtos-artesanais.git
 
 
 2. **Instale as Dependências:**
